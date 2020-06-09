@@ -21,21 +21,21 @@
 
 ---
 
-###Requisitos
+### Requisitos
 
 - NodeJs
 
 ---
 
-###Como Realizar testes?
+### Como Realizar testes?
 
-#####Primeiro execute o comando `$ npm install` em ambos diretórios para realizar a instalação dos pacotes necessários.
+##### Primeiro execute o comando `$ npm install` em ambos diretórios para realizar a instalação dos pacotes necessários.
 
-#####Web Api
-#####Usar o terminal integrado ao editor de sua preferencia ou o terminal de seu computador, ir ate a pasta /webApi e executar o comando `$ npm run dev` para fazer a api funcionar localmente, para fazer a analise das rotas utilize um testador http de sua preferencia.
+##### Web Api
+##### Usar o terminal integrado ao editor de sua preferencia ou o terminal de seu computador, ir ate a pasta /webApi e executar o comando `$ npm run dev` para fazer a api funcionar localmente, para fazer a analise das rotas utilize um testador http de sua preferencia.
 
 ---
 
 
-#####Aplicação frontend com backend mock
-#####Usar o terminal integrado ao editor de sua preferencia ou o terminal de seu computador, ir ate a pasta /backend e executar o comando `$ npm start` para fazer a api funcionar localmente depois ir ate a pasta /frontend/app e executar o comando `$ npm start` para executar o frontend.
+##### Aplicação frontend com backend mock
+##### Usar o terminal integrado ao editor de sua preferencia ou o terminal de seu computador, ir ate a pasta /backend e executar o comando `$ npm start` para fazer a api funcionar localmente depois ir ate a pasta /frontend/app e executar o comando `$ npm start` para executar o frontend.
